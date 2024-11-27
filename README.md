@@ -1,0 +1,1 @@
+Official code repository of the paper "Federated Continual Graph Learning" (ICDE 2025 submission)
