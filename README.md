@@ -1,5 +1,6 @@
 Official code repository of the paper "Federated Continual Graph Learning" (ICDE 2025 submission)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2404.14061-b31b1b.svg)](https://arxiv.org/pdf/2411.18919)
 
 
 **Requirements**
