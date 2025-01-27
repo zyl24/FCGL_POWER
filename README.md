@@ -1,4 +1,4 @@
-Official code repository of the paper "Federated Continual Graph Learning" (SIGKDD 2025 submission)
+Official code repository of the paper "Federated Continual Graph Learning" (under review)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.14061-b31b1b.svg)](https://arxiv.org/pdf/2411.18919)
 
