@@ -1,7 +1,7 @@
 Official code repository of the paper "Federated Continual Graph Learning" (accepted by SIGKDD 2025)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.14061-b31b1b.svg)](https://arxiv.org/pdf/2411.18919)
-
+[![DOI](https://zenodo.org/badge/894866914.svg)](https://doi.org/10.5281/zenodo.15487654)
 
 **Requirements**
 
